@@ -30,9 +30,11 @@ Additionally, it is used a `D3.js` library to create an event listener for a dro
 During the test, the module used a line chart to choose datasets 1 or 2 in order to learn how D3 works :)
 
 In short, the JSON SCRIPT shows the blocks of code in the following way for the testing data:
+
+EXAMPLE OF JUMBOTRON AND DROPDOWN MENU IN JSON -> SCRIPT FOR TESTING
 ![script](resources/option1%2C2_html.png)
 
-EXAMPLE OUTCOME TO TEST D3.JSON AND WEB SERVER
+EXAMPLE OUTCOME TO TEST D3.JSON AND WEB SERVER -> SCRIPT FOR TESTING
 ![chart](resources/option1%2C2_json.png)
 
 ## ***Results :dart:

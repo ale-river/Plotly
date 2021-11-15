@@ -39,7 +39,7 @@ EXAMPLE OUTCOME TO TEST D3.JSON AND WEB SERVER -> SCRIPT FOR TESTING
 
 ## ***Results :dart:
 Using the knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
-By looking for subject ID, we can identify the OTU in descending order. The scrub chart mentions the frequency washing period of each person in the sample. Finally, the bubble chart shows the bacteria culture type per sample.
+By looking for subject ID, we can identify the OTU in descending order. The scrub chart mentions the frequency washing period of each person in the sample. It displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. Finally, the bubble chart shows the bacteria culture type per sample.
 
 *Belly Button Biodiversity Dashboard
 ![dashboard](resources/challenge_outcome_final.png)
